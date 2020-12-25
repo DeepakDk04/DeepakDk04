@@ -26,22 +26,22 @@ Here are some ideas to get you started:
 
 📢 Always eagar to experience with Python to build
 
-* Automation [ System Automation, Web Automation ]
+* Automation [ System Automation, Web Automation(Selineum) ]
 
-* Web Scrapping
+* Web Scrapping [ Requests, BeautifulSoup, json ]
 
-* Data Visualization
+* Data Visualization [Jupyter Notebooks]
 
-* Web Applications [ __Django__, Django Restframework, __React__ ]
+* Web Applications [ __Django__, Django Restframework, __ReactJs__ ]
 
 * Android Applications [React Native]
 
-* Desktop Applications [GUI Programs]
+* Desktop Applications [Tkinter,__ElectronJs__]
 
 
 >## About Myself ⚜️
 
-🕴🏻  Always Curious while working with Python and React Technologies.
+🕴🏻  Always Curious while working with Python [ __CLI Applications__ ] and React [ __Web Developement__ ] Technologies.
 
 🕵🏻‍♂️ Currently learning to improve myself with Data Structures and Algorithms.
 
@@ -51,7 +51,8 @@ Here are some ideas to get you started:
 
  🏵 Wanna Succeed as a Dev </>.
 
-
+* 🐍  [HackerRank](https://www.hackerrank.com/deepak004)
 
 >## Reach Me,📲 💻
 * [LinkedIn](https://www.linkedin.com/in/deepakdk004)
+
